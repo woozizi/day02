@@ -32,3 +32,11 @@ commit을 할 때는 staged 된 파일만 커밋이 됨
 stage에 한번에 모든 파일 올리기
   git add .
 
+커밋하면서 메세지를 동시에 작성하는 옵션
+  -m (옵션)
+  ex) git commit -m '메세지 내용 입력'
+
+커밋하면서 add 하는 옵션
+  -a (옵션)
+  ex) git commit -a
+
