@@ -40,3 +40,7 @@ stage에 한번에 모든 파일 올리기
   -a (옵션)
   ex) git commit -a
 
+  단, 파일이 tracked 상태일때만 가능
+  --> untracked 상태라면 사용 불가
+  --> 새롭게 만들어진 파일이라면 사용 불가
+
