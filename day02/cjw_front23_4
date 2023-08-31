@@ -29,6 +29,3 @@ untracked
 
 commit을 할 때는 staged 된 파일만 커밋이 됨
 
-stage에 한번에 모든 파일 올리기
-  git add .
-
