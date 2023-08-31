@@ -1,0 +1,13 @@
+git에서 저장하는 방식
+  임시저장(stage에 올린다) -> 저장
+
+stage에 변경사항 올리는 방법
+  git add 파일이름
+
+day02폴더는 git repository
+  day02.txt 파일은 새롭게 만든 파일 (untracked 된 상태)
+                              (unstaged 된 상태)
+
+git add day02.txt
+  --> day02.txt가 stage에 올라갔고, (stage 상태)
+      변경사항을 추적할 수 있는 상태(tracked)
