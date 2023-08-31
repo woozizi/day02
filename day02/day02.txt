@@ -11,3 +11,13 @@ day02폴더는 git repository
 git add day02.txt
   --> day02.txt가 stage에 올라갔고, (stage 상태)
       변경사항을 추적할 수 있는 상태(tracked)
+
+dat02.txt 를 수정
+  --> day02.txt가 modified 상태가 되었다
+      (tracked 상태)(unstaged 상태)
+
+dat02.txt 수정사항을 stage에 올림
+  git add day02.txt
+
+영구저장
+  (stage에 올라가 있는 임시저장된 파일들만 영구 저장이 된다)
